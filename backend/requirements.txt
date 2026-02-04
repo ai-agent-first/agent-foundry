@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiomysql
+pydantic
+pydantic-settings
+python-dotenv
+cryptography
+aiosqlite
+aiohttp
+aiomysql
+pymysql

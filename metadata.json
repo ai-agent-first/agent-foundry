@@ -1,0 +1,8 @@
+{
+  "description": "A professional AI Agent orchestration platform with skill configuration and interactive playground.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "name": "Agent Foundry"
+}
